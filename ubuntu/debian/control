@@ -1,4 +1,4 @@
-Source: gz-jetty
+Source: gz-kura
 Standards-Version: 3.9.5
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -21,11 +21,11 @@ Build-Depends: debhelper (>= 13),
                libgz-utils4-cli-dev,
                libgz-utils4-dev,
                libsdformat16-dev
-Vcs-Browser: https://github.com/gazebo-release/gz-jetty-release
-Vcs-Git: https://github.com/gazebo-release/gz-jetty-release
+Vcs-Browser: https://github.com/gazebo-release/gz-kura-release
+Vcs-Git: https://github.com/gazebo-release/gz-kura-release
 Homepage: http://gazebosim.org/
 
-Package: gz-jetty
+Package: gz-kura
 Architecture: any
 Section: libdevel
 Depends: libgz-cmake5-dev,
@@ -57,6 +57,6 @@ Depends: libgz-cmake5-dev,
          python3-sdformat16,
          ${misc:Depends}
 Multi-Arch: foreign
-Description: Collection of Gazebo packages - Jetty
+Description: Collection of Gazebo packages - Kura
   This is a metapackage used for triggering the whole collection of Gazebo
-  packages corresponding to the Jetty collection
+  packages corresponding to the Kura collection

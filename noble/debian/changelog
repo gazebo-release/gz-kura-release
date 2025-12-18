@@ -1,23 +1,5 @@
-gz-jetty (1.0.0-2~noble) noble; urgency=medium
+gz-kura (0.999.999-1~noble) noble; urgency=medium
 
-  * gz-jetty 1.0.0-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 21 Oct 2025 15:50:55 +0200
-
-gz-jetty (1.0.0-1~noble) noble; urgency=medium
-
-  * gz-jetty 1.0.0-1 release
-
- -- Carlos Aguero <caguero@osrfoundation.org>  Mon, 29 Sep 2025 23:27:00 +0200
-
-gz-jetty (1.0.0~pre1-1~noble) noble; urgency=medium
-
-  * gz-jetty 1.0.0~pre1-1 release
-
- -- Ian Chen <ichen@openrobotics.org>  Wed, 27 Aug 2025 05:04:50 +0000
-
-gz-jetty (0.999.999-1~noble) noble; urgency=medium
-
-  * gz-jetty 0.999.999-1 release for noble
+  * Stub to be removed after first entry
 
  -- Ian Chen <ichen@openrobotics.org>  Mon, 07 Oct 2024 16:40:16 +0200
